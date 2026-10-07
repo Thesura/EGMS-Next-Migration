@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Later migrated to [Vite](https://vite.dev/).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Later migrated to [Vite](https://vite.dev/). Now migrating [NextJS](https://nextjs.org/) to learn more about the difference between a base react project and Next.
 
 ## Available Scripts
 

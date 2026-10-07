@@ -29,3 +29,8 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+.next
+next-env.d.ts
+dist
+to-do.txt
